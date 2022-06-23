@@ -52,7 +52,7 @@ _이텔릭_
 
 ![HEROPY](https://s.pstatic.net/static/www/mobile/edit/20220622/mobile_191115762352.png)
 
-[![HEROPY](http://naver.com)](https://s.pstatic.net/static/www/mobile/edit/20220622/mobile_191115762352.png)
+[![HEROPY](https://s.pstatic.net/static/www/mobile/edit/20220622/mobile_191115762352.png)](http://naver.com)
 
 # 인용문(BlockQuote)
 
